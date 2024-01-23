@@ -16,7 +16,7 @@ class _CounterScreenState extends State<CounterScreen> {
     const tamanio30 =  TextStyle(fontSize: 30);
 
     return Scaffold( //Es un lienzo para poner opciones widgets
-      // backgroundColor: Colors.purpleAccent,
+      //backgroundColor: Colors.purpleAccent,
       appBar: AppBar(
         backgroundColor: Colors.blue,
         title: const Center(
