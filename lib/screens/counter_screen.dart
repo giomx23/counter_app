@@ -66,7 +66,7 @@ class _CounterScreenState extends State<CounterScreen> {
             backgroundColor: Colors.blue,
             child: const Icon(Icons.exposure_plus_1_outlined),
             onPressed: (){
-              // print('Holaaaa');
+              // print('Holaaaa');;
               counter++;
               setState(() {});
             }),
